@@ -1,0 +1,13 @@
+{
+  "name": "node-mentor",
+  "description": "Node.js + TypeScript workflows for Express and NestJS services: auto lint/format on edit, typecheck and related Jest tests before Claude finishes, guards for destructive commands, and skills for endpoints, debugging, dependency upgrades, and a full quality gate. Builds on engineering-mentor's reviews.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Mitesh Patel"
+  },
+  "homepage": "https://github.com/miteshpatel13/node-mentor",
+  "repository": "https://github.com/miteshpatel13/node-mentor",
+  "license": "Apache-2.0",
+  "keywords": ["nodejs", "typescript", "nestjs", "express", "jest", "eslint", "hooks"],
+  "dependencies": ["engineering-mentor"]
+}

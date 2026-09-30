@@ -1,0 +1,5 @@
+# Local copy of engineering-mentor for claude plugin eval (scripts/prepare-evals.sh)
+.eval-deps/
+# claude plugin eval output
+evals/results/
+.DS_Store
