@@ -23,6 +23,7 @@ The hooks use only tools already installed in your project's `node_modules/.bin`
 | `/node-mentor:new-endpoint` | Add an endpoint the way your codebase already does it: DTO validation, per-resource authorization, service, errors, OpenAPI, unit and e2e tests, then Mentor API/security review |
 | `/node-mentor:debug-node` | Crashes, unhandled rejections, Nest DI errors, ESM/CJS errors, event-loop blocking, memory leaks, TypeORM pool issues, hanging Jest |
 | `/node-mentor:upgrade-deps` | Planned, grouped, one-step-at-a-time upgrades (`@nestjs/*`, TypeORM, Jest/ts-jest, ESLint/typescript-eslint, TypeScript) — user-triggered only |
+| `/node-mentor:algorithm-complexity` | Understand, analyze, review, and optimize time and space complexity, loops, recursion, and Big-O trade-offs in Node.js/TypeScript code |
 
 ### Agents
 
